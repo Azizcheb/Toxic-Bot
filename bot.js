@@ -15,8 +15,8 @@ const fs = require("fs");
 
 const bot = new Discord.Client({disableEveryone: true});
 const client = new Discord.Client 
-require("./util/eventHandler")(bot)
-let xp = require("./xp.json");
+//require("./util/eventHandler")(bot)
+//let xp = require("./xp.json");
 //let purple = botconfig.purple;
 bot.commands = new Discord.Collection();
 
