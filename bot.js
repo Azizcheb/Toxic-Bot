@@ -26,4 +26,4 @@ client.on('message', message => {
   
 
 
-bot.login('NTU2MjA1MTQ2NDY0NTgzNjkw.D22WMg.SwUtmlN02Z9dl5wj8rDhcCMLVjg');
+client.login('NTU2MjA1MTQ2NDY0NTgzNjkw.D22WMg.SwUtmlN02Z9dl5wj8rDhcCMLVjg');
