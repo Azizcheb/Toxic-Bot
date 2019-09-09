@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "Description": "Test",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+   },
+   "dependencies": {
+     "discord.js": "11.01.0",
+     "request": "2.81.0"
+   }
+ }
